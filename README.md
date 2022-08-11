@@ -3,6 +3,8 @@ Projeto final da disciplina de introdução a programação que consiste na real
 
 Grupo:
 
-Edgard Henrique Coelho Tavares da Silva
-Gabriel Viera Coutinho
-Gustavo Henrique de Carvalho Costa Filho
+-Edgard Henrique Coelho Tavares da Silva
+
+-Gabriel Viera Coutinho
+
+-Gustavo Henrique de Carvalho Costa Filho
